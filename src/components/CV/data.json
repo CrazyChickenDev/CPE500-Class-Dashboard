@@ -1,22 +1,22 @@
 {
   "header": {
-    "name": "MARAT DOSPOLOV",
-    "position": "JAVASCRIPT TECH LEADER",
+    "name": "NWAOBI DANIEL",
+    "position": "Cyber-Security Researcher",
     "img": {
       "src": "/photo.jpg",
-      "alt": "Marat Dospolov"
+      "alt": "CrazyChickenDev"
     },
-    "location": "Ukraine, Kyiv",
+    "location": "Benin City, Nigeria",
     "contacts": [
       {
         "type": "telegram",
-        "link": "https://t.me/dospolov",
-        "linkName": "dospolov"
+        "link": "https://t.me/CrazyChickenDev",
+        "linkName": "0x00CCSec"
       },
       {
         "type": "github",
-        "link": "https://github.com/dospolov",
-        "linkName": "dospolov"
+        "link": "https://github.com/CrazyChickenDev",
+        "linkName": "CrazyChickenDev"
       }
     ]
   },
@@ -25,14 +25,24 @@
       "name": "Account Surfer",
       "locationIcon": "windows-store.svg",
       "description": "Quickly switch between accounts and browsers",
-      "builtWith": ["electron", "react", "redux", "reduxsaga", "fabric"],
+      "builtWith": [
+        "electron",
+        "react",
+        "redux",
+        "reduxsaga",
+        "fabric"
+      ],
       "link": "https://www.microsoft.com/en-us/p/account-surfer/9phvp9rjr7r7"
     },
     {
       "name": "Trello Bookmark",
       "locationIcon": "chrome-webstore.svg",
       "description": "Store your bookmarks as Trello Cards",
-      "builtWith": ["apollo", "react", "antd"],
+      "builtWith": [
+        "apollo",
+        "react",
+        "antd"
+      ],
       "link": "https://chrome.google.com/webstore/detail/trello-bookmark/ephoopolmejjnjkbbdcfgoohokhnekca",
       "sourceCode": "https://github.com/dospolov/trello-bookmark"
     },
@@ -40,7 +50,11 @@
       "name": "Blog",
       "locationIcon": "chrome.svg",
       "description": "Read about productivity and development",
-      "builtWith": ["gatsby", "react", "netlify"],
+      "builtWith": [
+        "gatsby",
+        "react",
+        "netlify"
+      ],
       "link": "https://dospolov.com",
       "sourceCode": "https://github.com/dospolov/gatsby-starter-blog-and-cv"
     }
@@ -144,7 +158,10 @@
       ]
     },
     "hard": {
-      "featured": ["Webpack", "ES6 / ES2017"],
+      "featured": [
+        "Webpack",
+        "ES6 / ES2017"
+      ],
       "other": [
         "Adobe Photoshop",
         "Angular.js",
@@ -197,8 +214,17 @@
           "role": "JavaScript Tech Leader",
           "description": "All-in-one ecommerce and subscription billing solution for software, SaaS & digital goods.",
           "stack": {
-            "me": ["React JS", "Redux", "Apollo", "GraphQL", "Webpack", "AntD"],
-            "all": [".Net"]
+            "me": [
+              "React JS",
+              "Redux",
+              "Apollo",
+              "GraphQL",
+              "Webpack",
+              "AntD"
+            ],
+            "all": [
+              ".Net"
+            ]
           },
           "achievements": [
             "Chose and approved tech stack with the client",
@@ -229,8 +255,17 @@
           "role": "JavaScript Tech Leader",
           "description": "HEROFi combines visual media and data visualization to create the most advanced retail entertainment networks in the world.",
           "stack": {
-            "me": ["React JS", "Redux", "Webpack", "Meteor.js", "AWS IoT", "AntD"],
-            "all": ["AWS"]
+            "me": [
+              "React JS",
+              "Redux",
+              "Webpack",
+              "Meteor.js",
+              "AWS IoT",
+              "AntD"
+            ],
+            "all": [
+              "AWS"
+            ]
           },
           "achievements": [
             "has built a team from scratch",
@@ -261,7 +296,14 @@
           "role": "JavaScript Team Leader",
           "description": "Interactive kiosk with multiple screens",
           "stack": {
-            "me": ["Angular.js", "meteor.js", "REST", "Socket.io", "Stylus", "Gulp"]
+            "me": [
+              "Angular.js",
+              "meteor.js",
+              "REST",
+              "Socket.io",
+              "Stylus",
+              "Gulp"
+            ]
           }
         },
         {
@@ -271,8 +313,16 @@
           "role": "Senior JavaScript developer",
           "description": "Marketing portal for Adidas Group",
           "stack": {
-            "me": ["Backbone.js", "Marionette.js", "REST", "Stylus", "Gulp"],
-            "all": ["Java"]
+            "me": [
+              "Backbone.js",
+              "Marionette.js",
+              "REST",
+              "Stylus",
+              "Gulp"
+            ],
+            "all": [
+              "Java"
+            ]
           }
         }
       ]
@@ -292,8 +342,15 @@
           "role": "Senior JavaScript Developer",
           "description": "Cutco’s product line includes kitchen knives and utensils, shears, flatware, cookware and sporting knives.",
           "stack": {
-            "me": ["Ember.js", "REST", "HTML", "SASS"],
-            "all": ["Java"]
+            "me": [
+              "Ember.js",
+              "REST",
+              "HTML",
+              "SASS"
+            ],
+            "all": [
+              "Java"
+            ]
           }
         },
         {
@@ -303,8 +360,18 @@
           "role": "Senior Frontend Developer",
           "description": "Ovia Health delivers the #1 health solution for women and families.",
           "stack": {
-            "me": ["jQuery", "HTML", "SASS", "Django", "Bootstrap", "Twig"],
-            "all": ["PHP", "Symphony"]
+            "me": [
+              "jQuery",
+              "HTML",
+              "SASS",
+              "Django",
+              "Bootstrap",
+              "Twig"
+            ],
+            "all": [
+              "PHP",
+              "Symphony"
+            ]
           }
         }
       ]
@@ -324,8 +391,17 @@
           "role": "Web developer",
           "description": "Service for evaluating the effectiveness of communications #1 in terms of sources: 800 million SOCMEDIA and 49000 mass media",
           "stack": {
-            "me": ["Backbone.js", "REST", "jQuery", "Bootstrap", "HTML", "CSS"],
-            "all": [".Net"]
+            "me": [
+              "Backbone.js",
+              "REST",
+              "jQuery",
+              "Bootstrap",
+              "HTML",
+              "CSS"
+            ],
+            "all": [
+              ".Net"
+            ]
           }
         },
         {
@@ -335,8 +411,15 @@
           "role": "Web developer",
           "description": "Hotwire is a travel website that can be used to book airline tickets, hotel rooms, rental cars, and vacation packages. It operates by selling off unsold travel inventory at discounted prices.",
           "stack": {
-            "me": ["Javascript", "CSS", "JSP"],
-            "all": ["Java", "Spring"]
+            "me": [
+              "Javascript",
+              "CSS",
+              "JSP"
+            ],
+            "all": [
+              "Java",
+              "Spring"
+            ]
           }
         }
       ]
@@ -352,8 +435,18 @@
           "role": "HTML developer",
           "description": "Trading systems",
           "stack": {
-            "me": ["Wordpress", "Drupal", "Joomla", "jQuery", "Bootstrap", "HTML", "CSS"],
-            "all": ["PHP"]
+            "me": [
+              "Wordpress",
+              "Drupal",
+              "Joomla",
+              "jQuery",
+              "Bootstrap",
+              "HTML",
+              "CSS"
+            ],
+            "all": [
+              "PHP"
+            ]
           }
         }
       ]

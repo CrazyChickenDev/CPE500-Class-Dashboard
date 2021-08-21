@@ -4,7 +4,7 @@ title: First Semester Course Materials
 slug: /posts/first-semester
 draft: false
 priority: 0
-date: 2021-08-20T22:22:02.039Z
+date: 2021-08-20T02:22:02.039Z
 description: A collated list of available first semester course materials for 500lvl
 category: 500lvl semester
 tags:

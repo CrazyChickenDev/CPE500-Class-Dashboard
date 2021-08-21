@@ -4,7 +4,7 @@ title: Project Proposal + Project Defence Materials
 slug: /posts/project-proposal-project-defence
 draft: false
 priority: 5
-date: 2021-08-20T22:19:27.692Z
+date: 2021-08-21T22:19:27.692Z
 description: >-
   Guidelines and every material you'll need for the final year project
 category: project

@@ -4,7 +4,7 @@ title: '[Need to register your courses or make school related payments?](https:/
 slug: /posts/kofa-page-link
 draft: false
 priority: 0
-date: 2021-08-20T00:46:37.121Z
+date: 2021-08-16T00:46:37.121Z
 description: >-
   Use this direct link to head to the official Kofa page of the University Of Benin
 category: healthcare

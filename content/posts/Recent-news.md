@@ -1,7 +1,7 @@
 ---
 template: post
-title: Second Semester Courses
-slug: /posts/crlf-to-lf
+title: Be Updated with recent news and happenings in the department
+slug: /posts/news
 draft: false
 priority: 0
 date: 2021-08-21T12:22:42.826Z

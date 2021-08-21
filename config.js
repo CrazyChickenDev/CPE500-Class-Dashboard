@@ -31,7 +31,7 @@ module.exports = {
       linkedin: 'nwaobidaniel',
       telegram: '',
       instagram: '',
-      email: 'mailto:dannychukz15@gmail',
+      email: 'dannychukz15@gmail',
       facebook: '',
       rss: '',
     }

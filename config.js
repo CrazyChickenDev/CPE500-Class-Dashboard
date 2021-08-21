@@ -4,18 +4,18 @@ module.exports = {
   title: 'CPE500 Dashboard',
   keywords:
     'OxOOCCSec, pentesting, cybersecurity, productivity, javascript, Nwaobi Daniel, Linux, cyberthreat',
-  subtitle: 'Developer. Engineer. Researcher.',
+  subtitle: 'Developer. Engineer. CyberSecurity Researcher.',
   copyright: '© 2021 | Benin City, Nigeria',
   disqusShortname: 'nwaobi',
   postsPerPage: 20,
   googleAnalyticsId: 'UA-6589522-7',
   menu: [
     {
-      label: 'Blog',
+      label: 'Course Materials',
       path: '/'
     },
     {
-      label: 'CV',
+      label: 'About',
       path: '/cv'
     }
   ],
@@ -31,7 +31,6 @@ module.exports = {
       linkedin: 'nwaobidaniel',
       telegram: 'OxOOCCSec',
       instagram: 'thecanva_shogun',
-      facebook: 'nwaobidaniel',
       email: 'mailto:dannychukz15@gmail',
     }
   }

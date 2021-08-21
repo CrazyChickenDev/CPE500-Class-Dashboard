@@ -15,18 +15,6 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'Calender',
-      path: ''
-    },
-    {
-      label: 'Timetable',
-      path: ''
-    },
-    {
-      label: 'Staff',
-      path: ''
-    },
-    {
       label: 'About',
       path: '/cv'
     }
@@ -41,8 +29,8 @@ module.exports = {
       github: 'crazychickendev',
       twitter: 'OxOOCCSec',
       linkedin: 'nwaobidaniel',
-      telegram: 'OxOOCCSec',
-      instagram: 'thecanva_shogun',
+      telegram: '',
+      instagram: '',
       email: 'mailto:dannychukz15@gmail',
       facebook: '',
       rss: '',

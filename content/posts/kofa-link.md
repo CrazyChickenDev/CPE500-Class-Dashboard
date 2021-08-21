@@ -12,3 +12,7 @@ tags:
   - kofa
   - school
 ---
+
+![school portal](/media/kofa.png 'kofa')
+
+---

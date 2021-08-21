@@ -11,7 +11,7 @@ module.exports = {
   googleAnalyticsId: 'UA-6589522-7',
   menu: [
     {
-      label: 'Course Materials',
+      label: 'Courses',
       path: '/'
     },
     {

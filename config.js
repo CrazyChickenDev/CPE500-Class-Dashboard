@@ -16,15 +16,15 @@ module.exports = {
     },
     {
       label: 'Calender',
-      path: '/'
+      path: ''
     },
     {
       label: 'Timetable',
-      path: '/'
+      path: ''
     },
     {
       label: 'Staff',
-      path: '/cv'
+      path: ''
     },
     {
       label: 'About',

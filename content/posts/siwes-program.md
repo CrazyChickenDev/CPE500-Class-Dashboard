@@ -15,8 +15,10 @@ tags:
 
 Materials:
 
-- [Report writing training.docx](https://www.dropbox.com/scl/fi/ru5g1gmw68fbxpms39rx5/report-writing-training.docx?dl=0&rlkey=tqkiooc006ua7zquqoy6upfoy)
-- [Tips on making good presentations](https://www.dropbox.com/s/rj01th7z8655b7b/TIPS%20ON%20MAKING%20GOODPRESENTATIONS.pdf?dl=0) page
+- [Report writing training](https://www.dropbox.com/scl/fi/ru5g1gmw68fbxpms39rx5/report-writing-training.docx?dl=0&rlkey=tqkiooc006ua7zquqoy6upfoy)
+- [Tips on making good presentations](https://www.dropbox.com/s/rj01th7z8655b7b/TIPS%20ON%20MAKING%20GOODPRESENTATIONS.pdf?dl=0)
+
+---
 
 Some experts are of the opinion that there is a yearning gap between the learning acquired by Nigerian 
 graduates of Nigerian universities and the application of the skills required in the workplace. Clearly, 

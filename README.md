@@ -1,13 +1,22 @@
+<div align="center">
+  <img alt="Logo" src="static\photo.jpg" width="100" />
+</div>
 <h1 align="center">
-<img alt="Gatsby Blog and CV starter" src="https://gatsby-starter-blog-and-cv.netlify.app/media/gatsby-starter-blog-and-cv.png">
-    Gatsby Blog and CV starter
+  CPE500-2022
 </h1>
-
-<p>
-    Inspired by <a href="https://github.com/alxshelepenok/gatsby-starter-lumen">gatsby-starter-lumen</a>
+<p align="center">
+  Inspired by <a href="https://github.com/alxshelepenok/gatsby-starter-lumen">gatsby-starter-lumen</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
-Demo: https://gatsby-starter-blog-and-cv.netlify.app/
+## 💫 Deploy
+
+<p align="center">
+  <a href="https://app.netlify.com/sites/cpe500-2022/deploys" target="_blank">
+    <img src="https://api.netlify.com/api/v1/badges/ff358318-0bde-479f-9d39-1bcf1331cee1/deploy-status" alt="Netlify Status" />
+  </a>
+</p>
+
+Link: https://cpe500-2022.netlify.app/
 
 ## 🚀 Quick start
 
@@ -15,27 +24,18 @@ Demo: https://gatsby-starter-blog-and-cv.netlify.app/
 
     Use the Gatsby CLI to create a new site, specifying the Blog and CV starter.
 
-    ```shell
-    # create a new Gatsby site using the Blog and CV starter
-    gatsby new my-blog-and-cv https://github.com/dospolov/gatsby-starter-blog-and-cv
-    ```
 
-1.  **Start developing.**
+2.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
 
-    ```shell
-    cd my-blog-and-cv/
-    gatsby develop
-    ```
 
-1.  **Open the source code and start editing!**
+3.  **Open the source code and start editing!**
 
     Your site is now running at `http://localhost:8000`!
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-    Open the `my-blog-and-cv` directory in your code editor of choice and edit `content/posts/*`. Save your changes and the browser will update in real time!
 
 ## 🧐 What's inside?
 
@@ -81,8 +81,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/dospolov/gatsby-starter-blog-and-cv)
-
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/dospolov/gatsby-starter-blog-and-cv)

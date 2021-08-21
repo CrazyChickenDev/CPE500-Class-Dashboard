@@ -1,7 +1,7 @@
 module.exports = {
-  url: 'https://gatsby-starter-blog-and-cv.netlify.app',
+  url: 'https://cpe500-2022.netlify.app',
   pathPrefix: '/',
-  title: 'Blog by Nwaobi Daniel',
+  title: 'CPE500 Dashboard',
   keywords:
     'OxOOCCSec, pentesting, cybersecurity, productivity, javascript, Nwaobi Daniel, Linux, cyberthreat',
   subtitle: 'Developer. Engineer. Researcher.',

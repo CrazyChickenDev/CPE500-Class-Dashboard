@@ -4,7 +4,7 @@ title: Be Updated with recent news and happenings in the department
 slug: /posts/news
 draft: false
 priority: 0
-date: 2021-08-21T12:22:42.826Z
+date: 2021-08-17T12:22:42.826Z
 description: >-
   Complete guide to force setup LF End-of-line for all your Git projects working
   on Windows.

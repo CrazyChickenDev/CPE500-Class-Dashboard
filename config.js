@@ -15,6 +15,18 @@ module.exports = {
       path: '/'
     },
     {
+      label: 'Calender',
+      path: '/'
+    },
+    {
+      label: 'Timetable',
+      path: '/'
+    },
+    {
+      label: 'Staff',
+      path: '/cv'
+    },
+    {
       label: 'About',
       path: '/cv'
     }

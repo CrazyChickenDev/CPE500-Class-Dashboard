@@ -32,6 +32,8 @@ module.exports = {
       telegram: 'OxOOCCSec',
       instagram: 'thecanva_shogun',
       email: 'mailto:dannychukz15@gmail',
+      facebook: '',
+      rss: '',
     }
   }
 }

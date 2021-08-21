@@ -1,16 +1,16 @@
 ---
 template: post
-title: How to handle multiple Chrome profiles with Account Surfer?
-slug: /posts/handle-chrome-profiles-with-account-surfer
+title: SIWES Industry Training Materials
+slug: /posts/correct-file-formats-for-siwes
 draft: false
 priority: 10
 date: 2019-07-16T21:19:27.692Z
-description: Quickly switch between accounts and browsers on Windows with Account Surfer.
-category: productivity
+description: This includes every file format and materials needed to complete the SIWES Program.
+category: project
 tags:
-  - account-surfer
-  - chrome
-  - windows
+  - siwes
+  - projects
+  - 400lvl
 ---
 
 It’s very convenient to separate your areas of activity using accounts in Chrome. You don’t lose your bookmarks, you don’t have to log out anywhere, necessary extensions are already installed.

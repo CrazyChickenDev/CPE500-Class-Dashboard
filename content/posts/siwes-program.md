@@ -1,6 +1,6 @@
 ---
 template: post
-title: SIWES Industry Training Materials
+title: SIWES Industrial Training Materials
 slug: /posts/correct-file-formats-for-siwes
 draft: false
 priority: 10

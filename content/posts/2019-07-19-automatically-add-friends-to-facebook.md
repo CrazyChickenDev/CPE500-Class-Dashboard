@@ -1,12 +1,12 @@
 ---
 template: post
-title: Automatically add friends to Facebook
+title: First Semester Courses
 slug: /posts/add-friends-fb
 draft: false
 priority: 0
 date: 2018-08-08T01:14:45.562Z
 description: Adds people with more than 10 common friends.
-category: automation
+category: 500lvl Semester
 tags:
   - facebook
   - javascript

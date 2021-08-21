@@ -7,7 +7,7 @@ priority: 5
 date: 2021-08-20T22:19:27.692Z
 description: >-
   Guideline and every material you'll need for the final year project
-category: productivity
+category: project
 tags:
   - material
   - project

@@ -1,21 +1,18 @@
 ---
 template: post
-title: Trello + GTD = Trello Bookmark
-slug: /posts/trello-plus-gtd-equals-trello-bookmark
+title: Project Proposal + Project Defence Materials
+slug: /posts/project-proposal-project-defence
 draft: false
 priority: 5
-date: 2019-03-27T00:46:37.121Z
+date: 2021-08-20T22:19:27.692Z
 description: >-
-  You know, I hate routine.
-
-  But one of the greatest things about being a programmer is that you can
-  automate your routine.
+  Guideline and every material you'll need for the final year project
 category: productivity
 tags:
-  - trello
-  - gtd
-  - chrome
-  - plugin
+  - material
+  - project
+  - proposal
+  - defence
 ---
 
 You know, I hate routine.

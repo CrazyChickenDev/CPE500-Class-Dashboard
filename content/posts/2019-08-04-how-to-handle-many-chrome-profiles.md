@@ -4,7 +4,7 @@ title: SIWES Industry Training Materials
 slug: /posts/correct-file-formats-for-siwes
 draft: false
 priority: 10
-date: 2019-07-16T21:19:27.692Z
+date: 2021-08-20T21:19:27.692Z
 description: This includes every file format and materials needed to complete the SIWES Program.
 category: project
 tags:

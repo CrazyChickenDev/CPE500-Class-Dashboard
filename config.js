@@ -22,7 +22,7 @@ module.exports = {
   author: {
     name: 'Nwaobi Daniel',
     photo: '/photo.jpg',
-    bio: 'Developer. Engineer. Researcher.',
+    bio: 'Developer. Engineer. CyberSecurity Researcher.',
     contacts: {
       // don't remove fields, just make them empty string ''
       // https://github.com/gatsbyjs/gatsby/issues/2392
@@ -32,8 +32,7 @@ module.exports = {
       telegram: 'OxOOCCSec',
       instagram: 'thecanva_shogun',
       facebook: 'nwaobidaniel',
-      email: 'dannychukz15@gmail',
-      rss: '/rss.xml'
+      email: 'mailto:dannychukz15@gmail',
     }
   }
 }

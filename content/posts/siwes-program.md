@@ -13,26 +13,25 @@ tags:
   - 400lvl
 ---
 
-It’s very convenient to separate your areas of activity using accounts in Chrome. You don’t lose your bookmarks, you don’t have to log out anywhere, necessary extensions are already installed.
+Materials:
 
-You can [read more](https://www.makeuseof.com/tag/custom-chrome-browser-profiles/) how to organize your Chrome space better.
+- [Report writing training.docx](https://www.dropbox.com/scl/fi/ru5g1gmw68fbxpms39rx5/report-writing-training.docx?dl=0&rlkey=tqkiooc006ua7zquqoy6upfoy)
+- [Tips on making good presentations](https://www.dropbox.com/s/rj01th7z8655b7b/TIPS%20ON%20MAKING%20GOODPRESENTATIONS.pdf?dl=0) page
 
-But if you are a Power User and constantly switch between profiles, there is one problem. When you open a link not from Chrome (Mail app, Skype, Word, etc.), the system opens the last used Chrome account.
+Some experts are of the opinion that there is a yearning gap between the learning acquired by Nigerian 
+graduates of Nigerian universities and the application of the skills required in the workplace. Clearly, 
+academic learning and theoretical knowledge alone would not usually prepare an educated person for 
+the world of work. Consequently, a worker must not only bring knowledge but must also be versatile 
+in the application of skills required to perform defined jobs and work. This requirement is particularly 
+crucial for graduates of science, engineering, agriculture, and technology disciplines. This need for 
+practical know-how gave birth to the SIWES program. 
+The Students’ Industrial Work Experience Scheme (SIWES) is a skill training program designed to 
+expose and prepare students of universities, polytechnics and Colleges of Education for the industrial 
+work situation they are likely to meet after graduation. The scheme also affords students the 
+opportunity of familiarizing and exposing themselves to the needed experience in handling equipment 
+and machinery that are usually not available in their institutions.
 
-`video: title: "by default, Chrome opens the last used account": /media/as-1/01.mp4`
+You can [read more](https://www.wiki.ng/en/wiki/history-of-siwes-student-industrial-work-experience-scheme-48125)
 
-For these purposes, I created [Account Surfer](https://www.microsoft.com/store/apps/9PHVP9RJR7R7).
+![siwes-image](/media/as-1/02.png 'ITF logo')
 
-![Account Surfer home screen](/media/as-1/02.png 'All my browsers and accounts on a single screen of Account Surfer')
-
-When you open a link, Account Surfer asks in which profile to open it and you can save the domain always opened there:
-
-`video: title: "Account Surfer saves domain and links it to Chrome profile": /media/as-1/03.mp4`
-
-Accounts can now be opened even faster using hotkeys:
-
-![Account Surfer hotkeys](/media/as-1/04.png 'Account Surfer hotkeys')
-
----
-
-Automate your routine and get the most out of your tools with [Account Surfer](https://www.microsoft.com/store/apps/9PHVP9RJR7R7)!

@@ -3,7 +3,7 @@ import { Card, Row, Col } from 'antd'
 
 const Experiments = ({ experiments, tech }) => (
   <>
-    <h3 className="text-center mt-10 mb-5">Experiments</h3>
+    <h3 className="text-center mt-10 mb-5">Projects</h3>
     <Card className="experiments">
       <Row type="flex" justify="space-around">
         {experiments.map((experiment, i) => (

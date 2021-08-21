@@ -1,4 +1,13 @@
 {
+  "volunteer": [
+    {
+      "place": "Bionic University",
+      "logo": "bionic.png",
+      "logoHeight": 50,
+      "period": "2015",
+      "description": "I conducted a series of lectures for BIONIC University. Main topics: HTML / CSS / jQuery / Handlebars / Ajax / Production experience / Best practices"
+    }
+  ],
   "experience": [
     {
       "company": {
@@ -253,27 +262,6 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "place": "Bionic University",
-      "logo": "bionic.png",
-      "logoHeight": 50,
-      "period": "2015",
-      "description": "I conducted a series of lectures for BIONIC University. Main topics: HTML / CSS / jQuery / Handlebars / Ajax / Production experience / Best practices"
-    }
-  ],
-  "education": [
-    {
-      "place": "Kiev Institute of Business and Technologies (KIBT)",
-      "period": "2012 - 2014",
-      "degree": "Bachelor's Degree, Management, Managment of business activities"
-    },
-    {
-      "place": "Moscow State Institute of Radio engineering, Electronics and Automation (MIREA)",
-      "period": "2007 - 2012",
-      "degree": "Master's Degree, Computer Science And Information Technologies, Software and computing systems (software engineer)"
-    }
-  ],
   "recommendations": [
     {
       "name": "Alexey Morozov",
@@ -325,7 +313,7 @@
       }
     ]
   },
-  "projects": [
+  "experiments": [
     {
       "name": "Account Surfer",
       "locationIcon": "windows-store.svg",

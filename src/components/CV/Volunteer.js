@@ -3,7 +3,7 @@ import { Card, Col, Divider, Row } from 'antd'
 
 const Volunteer = ({ volunteer }) => (
   <>
-    <h3 className="text-center mt-1 mb-0">Volunteer</h3>
+    <h3 className="text-center mt-1 mb-0">Notice Board</h3>
     <Card>
       {volunteer.map((activity, i) => (
         <Row type="flex" justify="space-around" key={activity.place} className="text-lg">

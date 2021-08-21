@@ -1,203 +1,4 @@
 {
-  "header": {
-    "name": "Nwaobi Daniel Ifechukwude",
-    "position": "Developer. Engineer. Cyber-Security Researcher",
-    "img": {
-      "src": "/photo1.jpg",
-      "alt": "CrazyChickenDev"
-    },
-    "location": "Benin City, Nigeria",
-    "contacts": [
-      {
-        "type": "Whatsapp",
-        "link": "https://wa.me/message/Y4M4QSP6P3TPC1",
-        "linkName": "0x00CCSec"
-      },
-      {
-        "type": "Github",
-        "link": "https://github.com/CrazyChickenDev",
-        "linkName": "CrazyChickenDev"
-      }
-    ]
-  },
-  "experiments": [
-    {
-      "name": "Account Surfer",
-      "locationIcon": "windows-store.svg",
-      "description": "Quickly switch between accounts and browsers",
-      "builtWith": [
-        "electron",
-        "react",
-        "redux",
-        "reduxsaga",
-        "fabric"
-      ],
-      "link": "https://www.microsoft.com/en-us/p/account-surfer/9phvp9rjr7r7"
-    },
-    {
-      "name": "Trello Bookmark",
-      "locationIcon": "chrome-webstore.svg",
-      "description": "Store your bookmarks as Trello Cards",
-      "builtWith": [
-        "apollo",
-        "react",
-        "antd"
-      ],
-      "link": "https://chrome.google.com/webstore/detail/trello-bookmark/ephoopolmejjnjkbbdcfgoohokhnekca",
-      "sourceCode": "https://github.com/dospolov/trello-bookmark"
-    },
-    {
-      "name": "Blog",
-      "locationIcon": "chrome.svg",
-      "description": "Read about productivity and development",
-      "builtWith": [
-        "gatsby",
-        "react",
-        "netlify"
-      ],
-      "link": "https://dospolov.com",
-      "sourceCode": "https://github.com/dospolov/gatsby-starter-blog-and-cv"
-    }
-  ],
-  "pitchLine": "My passions are — web-development, cognitive biases and anthropology.",
-  "topTech": [
-    "react",
-    "graphql",
-    "apollo",
-    "redux",
-    "reduxsaga",
-    "electron",
-    "gatsby",
-    "antd"
-  ],
-  "tech": {
-    "react": {
-      "name": "React",
-      "logo": "react.svg",
-      "website": "https://github.com/facebook/react",
-      "displayInTopList": true
-    },
-    "graphql": {
-      "name": "GraphQL",
-      "logo": "graphql.svg",
-      "website": "https://graphql.org/",
-      "displayInTopList": true
-    },
-    "apollo": {
-      "name": "Apollo",
-      "logo": "apollo.svg",
-      "website": "https://www.apollographql.com/",
-      "displayInTopList": true
-    },
-    "redux": {
-      "name": "Redux",
-      "logo": "redux.svg",
-      "website": "https://redux.js.org/",
-      "displayInTopList": true
-    },
-    "reduxsaga": {
-      "name": "Redux-Saga",
-      "logo": "redux-saga.svg",
-      "website": "https://redux-saga.js.org/",
-      "displayInTopList": true
-    },
-    "electron": {
-      "name": "Electron",
-      "logo": "electron.svg",
-      "website": "https://www.electronjs.org/",
-      "displayInTopList": true
-    },
-    "gatsby": {
-      "name": "Gatsby",
-      "logo": "gatsby.svg",
-      "website": "https://www.gatsbyjs.org/",
-      "displayInTopList": true
-    },
-    "antd": {
-      "name": "Ant Design",
-      "logo": "ant-design.svg",
-      "website": "https://ant.design/",
-      "displayInTopList": true
-    },
-    "fabric": {
-      "name": "Fabric UI",
-      "logo": "fabric.svg",
-      "website": "https://developer.microsoft.com/en-us/fabric",
-      "displayInTopList": false
-    },
-    "netlify": {
-      "name": "Netlify",
-      "logo": "netlify.svg",
-      "website": "https://www.netlify.com/",
-      "displayInTopList": false
-    }
-  },
-  "skills": {
-    "soft": {
-      "featured": [
-        "Focus on business needs",
-        "Team building / Leadership",
-        "Coaching",
-        "Decision making",
-        "Communication",
-        "Integrity"
-      ],
-      "other": [
-        "Scheduling",
-        "Risk Management",
-        "Critical Thinking",
-        "Problem Solving",
-        "Project Recovery",
-        "Task Management",
-        "Business Process Improvement",
-        "Budgeting",
-        "UX Prototyping",
-        "Requirements Analysis",
-        "Conflict Management",
-        "Policy Knowledge"
-      ]
-    },
-    "hard": {
-      "featured": [
-        "Webpack",
-        "ES6 / ES2017"
-      ],
-      "other": [
-        "Adobe Photoshop",
-        "Angular.js",
-        "AWS",
-        "Bootstrap",
-        "Backbone.js",
-        "CSS 3",
-        "GIT",
-        "Gulp",
-        "Google Maps API",
-        "D3.js",
-        "Ember.js",
-        "Fabric UI",
-        "Figma",
-        "Handlebars",
-        "HG",
-        "HTML 5",
-        "Illustrator",
-        "Jest",
-        "JIRA",
-        "LESS",
-        "Material UI",
-        "Meteor.js",
-        "Regexp",
-        "REST",
-        "SASS",
-        "Semantic UI",
-        "Socket.io",
-        "Stylus",
-        "Styled Components",
-        "Vanilla JS",
-        "Underscore / Lodash",
-        "Counter-Strike"
-      ]
-    }
-  },
   "experience": [
     {
       "company": {
@@ -503,5 +304,204 @@
       "text": "It was a pleasure working with Marat. He is a very talented passionate JavaScript developer, and a good friend. During that time I was impressed with his skill set and the way he could think through problems and find a solution for them. I would be happy to work with him again in the future."
     }
   ],
+  "header": {
+    "name": "Nwaobi Daniel Ifechukwude",
+    "position": "Developer. Engineer. Cyber-Security Researcher",
+    "img": {
+      "src": "/photo1.jpg",
+      "alt": "CrazyChickenDev"
+    },
+    "location": "Benin City, Nigeria",
+    "contacts": [
+      {
+        "type": "Whatsapp",
+        "link": "https://wa.me/message/Y4M4QSP6P3TPC1",
+        "linkName": "0x00CCSec"
+      },
+      {
+        "type": "Github",
+        "link": "https://github.com/CrazyChickenDev",
+        "linkName": "CrazyChickenDev"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "Account Surfer",
+      "locationIcon": "windows-store.svg",
+      "description": "Quickly switch between accounts and browsers",
+      "builtWith": [
+        "electron",
+        "react",
+        "redux",
+        "reduxsaga",
+        "fabric"
+      ],
+      "link": "https://www.microsoft.com/en-us/p/account-surfer/9phvp9rjr7r7"
+    },
+    {
+      "name": "Trello Bookmark",
+      "locationIcon": "chrome-webstore.svg",
+      "description": "Store your bookmarks as Trello Cards",
+      "builtWith": [
+        "apollo",
+        "react",
+        "antd"
+      ],
+      "link": "https://chrome.google.com/webstore/detail/trello-bookmark/ephoopolmejjnjkbbdcfgoohokhnekca",
+      "sourceCode": "https://github.com/dospolov/trello-bookmark"
+    },
+    {
+      "name": "Blog",
+      "locationIcon": "chrome.svg",
+      "description": "Read about productivity and development",
+      "builtWith": [
+        "gatsby",
+        "react",
+        "netlify"
+      ],
+      "link": "https://dospolov.com",
+      "sourceCode": "https://github.com/dospolov/gatsby-starter-blog-and-cv"
+    }
+  ],
+  "pitchLine": "My passions are — web-development, cognitive biases and anthropology.",
+  "topTech": [
+    "react",
+    "graphql",
+    "apollo",
+    "redux",
+    "reduxsaga",
+    "electron",
+    "gatsby",
+    "antd"
+  ],
+  "tech": {
+    "react": {
+      "name": "React",
+      "logo": "react.svg",
+      "website": "https://github.com/facebook/react",
+      "displayInTopList": true
+    },
+    "graphql": {
+      "name": "GraphQL",
+      "logo": "graphql.svg",
+      "website": "https://graphql.org/",
+      "displayInTopList": true
+    },
+    "apollo": {
+      "name": "Apollo",
+      "logo": "apollo.svg",
+      "website": "https://www.apollographql.com/",
+      "displayInTopList": true
+    },
+    "redux": {
+      "name": "Redux",
+      "logo": "redux.svg",
+      "website": "https://redux.js.org/",
+      "displayInTopList": true
+    },
+    "reduxsaga": {
+      "name": "Redux-Saga",
+      "logo": "redux-saga.svg",
+      "website": "https://redux-saga.js.org/",
+      "displayInTopList": true
+    },
+    "electron": {
+      "name": "Electron",
+      "logo": "electron.svg",
+      "website": "https://www.electronjs.org/",
+      "displayInTopList": true
+    },
+    "gatsby": {
+      "name": "Gatsby",
+      "logo": "gatsby.svg",
+      "website": "https://www.gatsbyjs.org/",
+      "displayInTopList": true
+    },
+    "antd": {
+      "name": "Ant Design",
+      "logo": "ant-design.svg",
+      "website": "https://ant.design/",
+      "displayInTopList": true
+    },
+    "fabric": {
+      "name": "Fabric UI",
+      "logo": "fabric.svg",
+      "website": "https://developer.microsoft.com/en-us/fabric",
+      "displayInTopList": false
+    },
+    "netlify": {
+      "name": "Netlify",
+      "logo": "netlify.svg",
+      "website": "https://www.netlify.com/",
+      "displayInTopList": false
+    }
+  },
+  "skills": {
+    "soft": {
+      "featured": [
+        "Focus on business needs",
+        "Team building / Leadership",
+        "Coaching",
+        "Decision making",
+        "Communication",
+        "Integrity"
+      ],
+      "other": [
+        "Scheduling",
+        "Risk Management",
+        "Critical Thinking",
+        "Problem Solving",
+        "Project Recovery",
+        "Task Management",
+        "Business Process Improvement",
+        "Budgeting",
+        "UX Prototyping",
+        "Requirements Analysis",
+        "Conflict Management",
+        "Policy Knowledge"
+      ]
+    },
+    "hard": {
+      "featured": [
+        "Webpack",
+        "ES6 / ES2017"
+      ],
+      "other": [
+        "Adobe Photoshop",
+        "Angular.js",
+        "AWS",
+        "Bootstrap",
+        "Backbone.js",
+        "CSS 3",
+        "GIT",
+        "Gulp",
+        "Google Maps API",
+        "D3.js",
+        "Ember.js",
+        "Fabric UI",
+        "Figma",
+        "Handlebars",
+        "HG",
+        "HTML 5",
+        "Illustrator",
+        "Jest",
+        "JIRA",
+        "LESS",
+        "Material UI",
+        "Meteor.js",
+        "Regexp",
+        "REST",
+        "SASS",
+        "Semantic UI",
+        "Socket.io",
+        "Stylus",
+        "Styled Components",
+        "Vanilla JS",
+        "Underscore / Lodash",
+        "Counter-Strike"
+      ]
+    }
+  },
   "footer": "Built with love by Nwaobi Daniel © 2021"
 }

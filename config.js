@@ -3,10 +3,10 @@ module.exports = {
   pathPrefix: '/',
   title: 'CPE500 Dashboard',
   keywords:
-    'OxOOCCSec, pentesting, cybersecurity, productivity, javascript, Nwaobi Daniel, Linux, cyberthreat',
-  subtitle: 'Developer. Engineer. CyberSecurity Researcher.',
-  copyright: '© 2021 | Benin City, Nigeria',
-  disqusShortname: 'nwaobi',
+    'OxOOCCSec, project, cpe500, materials, courses, Nwaobi Daniel, calender, class',
+  subtitle: 'Dashboard',
+  copyright: '© 2021 | Built with love by Nwaobi Daniel',
+  disqusShortname: 'cpe500',
   postsPerPage: 20,
   googleAnalyticsId: 'UA-6589522-7',
   menu: [
@@ -20,9 +20,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Nwaobi Daniel',
+    name: 'CPE500 - 2022',
     photo: '/photo.jpg',
-    bio: 'Developer. Engineer. CyberSecurity Researcher.',
+    bio: 'Dashboard',
     contacts: {
       // don't remove fields, just make them empty string ''
       // https://github.com/gatsbyjs/gatsby/issues/2392

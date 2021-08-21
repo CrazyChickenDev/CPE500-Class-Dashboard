@@ -1,16 +1,16 @@
 {
   "header": {
-    "name": "NWAOBI DANIEL",
-    "position": "Cyber-Security Researcher",
+    "name": "Nwaobi Daniel Ifechukwude",
+    "position": "Developer. Engineer. Cyber-Security Researcher",
     "img": {
-      "src": "/photo.jpg",
+      "src": "/photo1.jpg",
       "alt": "CrazyChickenDev"
     },
     "location": "Benin City, Nigeria",
     "contacts": [
       {
-        "type": "telegram",
-        "link": "https://t.me/CrazyChickenDev",
+        "type": "whatsapp",
+        "link": "https://wa.me/message/Y4M4QSP6P3TPC1",
         "linkName": "0x00CCSec"
       },
       {

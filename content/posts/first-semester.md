@@ -1,16 +1,17 @@
 ---
 template: post
-title: Chrome custom JS and CSS extension
-slug: /posts/chrome-custom-js-and-css-extension
+title: First Semester Course Materials
+slug: /posts/first-semester
 draft: false
 priority: 0
-date: 2020-04-18T22:22:02.039Z
-description: Chrome custom JS and CSS extension
-category: productivity
+date: 2021-08-20T22:22:02.039Z
+description: A collated list of available first semester course materials for 500lvl
+category: 500lvl semester
 tags:
-  - chrome
-  - javascript
-  - utilities
+  - 500lvl
+  - final year
+  - materials
+  - course
 ---
 
 Using websites a lot - there might be a need to improve UX or UI.

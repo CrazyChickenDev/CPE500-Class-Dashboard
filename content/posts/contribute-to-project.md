@@ -1,6 +1,6 @@
 ---
 template: post
-title: '[Love this work and would like to contribute to it?](https://github.com/CrazyChickenDev/CPE500-2022)'
+title: '[Would you like to contribute or maintain this project?](https://github.com/CrazyChickenDev/CPE500-2022)'
 slug: /posts/CPE500-2022-Dashboard
 draft: false
 priority: 0

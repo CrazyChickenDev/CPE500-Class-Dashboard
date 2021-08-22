@@ -18,17 +18,11 @@ const CV = () => (
   <>
     <Sidebar hideMobile={true} />
     <Content className="m-5">
-      {data.header && <Header header={data.header} />}
-      {data.experiments && (
-        <Experiments experiments={data.experiments} tech={data.tech} />
-      )}
-      {data.pitchLine && <PitchLine pitchLine={data.pitchLine} />}
-      {data.tech && data.topTech && <TopTech topTech={data.topTech} tech={data.tech} />}
-      {data.skills && <SkillList skills={data.skills} />}
       {data.experience && <Experience experience={data.experience} />}
       {data.volunteer && <Volunteer volunteer={data.volunteer} />}
-      {data.education && <Education education={data.education} />}
       {data.recommendations && <Recommendations recommendations={data.recommendations} />}
+      {data.header && <Header header={data.header} />}
+      {data.pitchLine && <PitchLine pitchLine={data.pitchLine} />}
       {data.footer && <Footer footer={data.footer} />}
     </Content>
   </>

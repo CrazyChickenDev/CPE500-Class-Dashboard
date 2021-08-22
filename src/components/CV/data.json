@@ -1,13 +1,4 @@
 {
-  "volunteer": [
-    {
-      "place": "Bionic University",
-      "logo": "bionic.png",
-      "logoHeight": 50,
-      "period": "2015",
-      "description": "I conducted a series of lectures for BIONIC University. Main topics: HTML / CSS / jQuery / Handlebars / Ajax / Production experience / Best practices"
-    }
-  ],
   "experience": [
     {
       "company": {

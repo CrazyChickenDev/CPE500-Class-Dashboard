@@ -14,7 +14,7 @@ const Recommendations = ({ recommendations }) => (
             <Avatar
               icon={<img src={`/people/${rec.photo}`} />}
               alt={rec.name}
-              size={50}
+              size={100}
             />
           </Col>
           <Col span={17}>

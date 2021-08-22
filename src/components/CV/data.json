@@ -225,6 +225,11 @@
         "linkName": "0x00CCSec"
       },
       {
+        "type": "Portfolio",
+        "link": "https://nwaobidaniel.netlify.app/",
+        "linkName": "See Portfolio"
+      },
+      {
         "type": "Github",
         "link": "https://github.com/CrazyChickenDev",
         "linkName": "CrazyChickenDev"
@@ -270,17 +275,13 @@
       "sourceCode": "https://github.com/dospolov/gatsby-starter-blog-and-cv"
     }
   ],
-  "pitchLine": "My passions are — web-development, cognitive biases and anthropology.",
-  "topTech": [
-    "react",
-    "graphql",
-    "apollo",
-    "redux",
-    "reduxsaga",
-    "electron",
-    "gatsby",
-    "antd"
-  ],
+  "pitchLine": ["If this project helps you, Buy me a Pizza",
+  {
+    "type": "Donate",
+    "link": "https://paystack.com/pay/buymepizza",
+    "linkName": "Buy me a Pizza"
+  }
+],
   "tech": {
     "react": {
       "name": "React",

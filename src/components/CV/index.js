@@ -22,7 +22,6 @@ const CV = () => (
       {data.volunteer && <Volunteer volunteer={data.volunteer} />}
       {data.recommendations && <Recommendations recommendations={data.recommendations} />}
       {data.header && <Header header={data.header} />}
-      {data.pitchLine && <PitchLine pitchLine={data.pitchLine} />}
       {data.footer && <Footer footer={data.footer} />}
     </Content>
   </>

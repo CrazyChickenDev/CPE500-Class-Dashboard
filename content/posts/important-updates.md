@@ -1,7 +1,7 @@
 ---
 template: post
 title: Important Updates
-slug: /updates/important-updates
+slug: /posts/important-updates
 draft: false
 priority: 0
 date: 2021-08-11T21:19:27.692Z

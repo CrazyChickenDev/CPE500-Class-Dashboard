@@ -1,7 +1,7 @@
 ---
 template: post
 title: Announcements
-slug: /updates/announcements
+slug: /posts/announcements
 draft: false
 priority: 0
 date: 2021-08-22T21:19:27.692Z

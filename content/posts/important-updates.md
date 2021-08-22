@@ -43,4 +43,4 @@ Thanks 👍🏽
 ---
 
 
-![image](\media\announcements\itupdate.jpeg 'update')
+![image](/media/announcements/announce.png 'update')

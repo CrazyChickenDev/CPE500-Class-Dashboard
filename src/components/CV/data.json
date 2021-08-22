@@ -275,13 +275,7 @@
       "sourceCode": "https://github.com/dospolov/gatsby-starter-blog-and-cv"
     }
   ],
-  "pitchLine": ["If this project helps you, Buy me a Pizza",
-  {
-    "type": "Donate",
-    "link": "https://paystack.com/pay/buymepizza",
-    "linkName": "Buy me a Pizza"
-  }
-],
+  "pitchLine": "If this project helps you, Buy me a Pizza",
   "tech": {
     "react": {
       "name": "React",

@@ -3,12 +3,12 @@
     "name": "Announcements",
     "logo": "/logos/as.svg",
     "description": "IT report submission deadline is on Friday, 20th of August, 2021.",
-    "link": "/updates/announcements"
+    "link": "/posts/announcements"
   },
   {
     "name": "Important Updates",
     "logo": "/logos/trello-bookmark.svg",
     "description": "Get recent updates on class news.",
-    "link": "/updates/important-updates"
+    "link": "/posts/important-updates"
   }
 ]

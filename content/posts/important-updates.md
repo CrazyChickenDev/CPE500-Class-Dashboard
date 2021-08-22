@@ -4,7 +4,7 @@ title: Important Updates
 slug: /updates/important-updates
 draft: false
 priority: 0
-date: 2021-08-20T21:19:27.692Z
+date: 2021-08-11T21:19:27.692Z
 description: Important Updates
 category: announcements
 tags:
@@ -31,6 +31,16 @@ Note that: We are each to pay an amount of #2000 before the day of IT defense fo
  More information would be passed in due time....
 
 6️⃣After IT defense, we will be having a Class Assembly, PLEASE DO NOT MISS IT!!!
+
+---
+
+Sports Update ⚽ ❗❗❗❗📢
+Quick one 
+The draws for the IT cup has been held... So please the following students @Joseph😝  @Bolade @Edwin @PMJ @Frank @Nik  @Chris  should DM Valentine to indicate their interest in the tournament... If your name was not mentioned and you are interested in participating also Dm... First Training to be held on Monday 23rd August 2021
+Note that : We are merging with Electrical Engineering Department for the IT cup... So we will no longer bear CPE but E.E ( electronics engineering ).  
+Thanks 👍🏽
+
+---
 
 
 ![image](\media\announcements\itupdate.jpeg 'update')

@@ -4,7 +4,7 @@ title: Announcements
 slug: /updates/announcements
 draft: false
 priority: 0
-date: 2021-08-20T21:19:27.692Z
+date: 2021-08-22T21:19:27.692Z
 description: Announcements.
 category: announcement
 tags:

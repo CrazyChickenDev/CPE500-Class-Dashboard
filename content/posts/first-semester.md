@@ -36,5 +36,3 @@ Materials:
 - [Past Questions]() Would be updated!
 
 ---
-
-![First Semester](/media/dna-1/dna-1.png 'image')

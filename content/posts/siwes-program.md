@@ -35,5 +35,4 @@ and machinery that are usually not available in their institutions.
 
 You can [read more](https://www.wiki.ng/en/wiki/history-of-siwes-student-industrial-work-experience-scheme-48125)
 
-![siwes-image](/media/as-1/02.png 'ITF logo')
 

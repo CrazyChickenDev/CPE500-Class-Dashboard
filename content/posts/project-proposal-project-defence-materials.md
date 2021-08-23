@@ -26,5 +26,3 @@ Materials:
 ---
 
 A Final Year Project (FYP) is a project or academic task that must be accomplished individually by every undergraduate student to obtain the attributions to graduate. Its aim is to demonstrate the skills and knowledge students have acquired in their studies. It is also a way of identifying the students’ ability to perform an industrial project or applied research linked to the knowledge they have gained in their discipline. It allows students to choose methods, tools and make decisions throughout the entire project, much like what a professional undertakes when carrying out a task.
-
-![project-image](/media/as-1/04.png 'final year project')

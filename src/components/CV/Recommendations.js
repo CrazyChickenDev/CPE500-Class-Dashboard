@@ -16,6 +16,15 @@ const Recommendations = ({ recommendations }) => (
               size={100}
             />
           </Col>
+          <Col span={5}>
+            <h3 className="mb-0">{rec.name}</h3>
+            <p>{rec.jobTitle}</p>
+            <Avatar
+              icon={<img src={`/people/${rec.photo}`} />}
+              alt={rec.name}
+              size={100}
+            />
+          </Col>
         </Row>
       ))}
     </Card>

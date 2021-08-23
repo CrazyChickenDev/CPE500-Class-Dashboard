@@ -25,7 +25,7 @@ Note that: We are each to pay an amount of #2000 before the day of IT defense fo
 ---
 
 ![image](/media/announcements/itupdate.jpeg 'update')
-
+![image](/media/announcements/itupdate2.jpeg 'update')
 
 
 

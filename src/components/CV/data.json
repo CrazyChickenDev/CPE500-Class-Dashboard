@@ -147,10 +147,31 @@
       "text": ""
     },
     {
-      "name": "Engr. Isi Edeoghon",
+      "name": "Dr. Iruansi",
+      "jobTitle": "HOD",
+      "photo": "iruansi.jpg",
+      "linkedin": "",
+      "text": ""
+    },
+    {
+      "name": "Engr. Eguagie",
+      "jobTitle": "Course Adviser",
+      "photo": "eguagie.jpg",
+      "linkedin": "https://www.linkedin.com/in/isi-edeoghon-13897749/",
+      "text": ""
+    },
+    {
+      "name": "Engr. Isi A. Edeoghon",
       "jobTitle": "Lecturer",
       "photo": "isi.jpg",
       "linkedin": "https://www.linkedin.com/in/isi-edeoghon-13897749/",
+      "text": ""
+    },
+    {
+      "name": "Prof Apeh",
+      "jobTitle": "Lecturer",
+      "photo": "apeh.jpg",
+      "linkedin": "",
       "text": ""
     },
     {
@@ -158,6 +179,76 @@
       "jobTitle": "Lecturer",
       "photo": "odia.jpg",
       "linkedin": "https://www.linkedin.com/in/osasuyi-odia-823899103/",
+      "text": ""
+    },
+    {
+      "name": "Engr. Olaye",
+      "jobTitle": "Lecturer",
+      "photo": "olaye.jpg",
+      "linkedin": "",
+      "text": ""
+    },
+    {
+      "name": "Dr. Omoifo",
+      "jobTitle": "Lecturer",
+      "photo": "omoifo.jpg",
+      "linkedin": "",
+      "text": ""
+    },
+    {
+      "name": "Engr. A. Obayuwana",
+      "jobTitle": "Lecturer",
+      "photo": "obayuwana.jpg",
+      "linkedin": "",
+      "text": ""
+    },
+    {
+      "name": "Engr. Mrs K.B. Erameh",
+      "jobTitle": "Lecturer",
+      "photo": "erame.jpg",
+      "linkedin": "",
+      "text": ""
+    },
+    {
+      "name": "Engr. Mrs Okosun",
+      "jobTitle": "Lecturer",
+      "photo": "okosun.jpg",
+      "linkedin": "",
+      "text": ""
+    },
+    {
+      "name": "Engr. Dr. Dele Ogbeide",
+      "jobTitle": "Lecturer",
+      "photo": "dele.jpg",
+      "linkedin": "",
+      "text": ""
+    },
+    {
+      "name": "Engr. I. Omosigho",
+      "jobTitle": "Lecturer",
+      "photo": "iomosigho.jpg",
+      "linkedin": "",
+      "text": ""
+    },
+    {
+      "name": "Engr. M. Omosigho",
+      "jobTitle": "Lecturer",
+      "photo": "momosigho.jpg",
+      "linkedin": "",
+      "text": ""
+    },
+    {
+      "name": "Engr. James",
+      "jobTitle": "Lecturer",
+      "photo": "james.jpg",
+      "linkedin": "",
+      "text": ""
+    },
+    {
+      "name": "Engr. Prudence",
+      "jobTitle": "Lecturer",
+      "photo": "prudence.jpg",
+      "linkedin": "",
       "text": ""
     }
   ],

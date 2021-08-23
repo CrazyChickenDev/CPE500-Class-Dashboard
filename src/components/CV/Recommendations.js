@@ -9,11 +9,11 @@ const Recommendations = ({ recommendations }) => (
         <Row type="flex" justify="space-around" key={i} className="text-lg">
           <Col span={5}>
             <h3 className="mb-0">{rec.name}</h3>
-            <p align = "center">{rec.jobTitle}</p>
-            <Avatar align = "center"
+            <p>{rec.jobTitle}</p>
+            <Avatar
               icon={<img src={`/people/${rec.photo}`} />}
               alt={rec.name}
-              size={50}
+              size={100}
             />
           </Col>
         </Row>

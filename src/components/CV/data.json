@@ -2,15 +2,11 @@
   "experience": [
     {
       "company": {
-        "name": "N-iX",
-        "logoHeight": 40,
-        "logo": "n-ix.svg",
         "period": "Monday"
       },
       "projects": [
         {
-          "role": "JavaScript Team Leader",
-          "description": "Interactive kiosk with multiple screens",
+          "role": "Monday",
           "stack": {
             "me": [
               "Angular.js",
@@ -26,15 +22,11 @@
     },
     {
       "company": {
-        "name": "CIKLUM",
-        "period": "Tuesday",
-        "logoHeight": 50,
-        "logo": "ciklum.svg"
+        "period": "Tuesday"
       },
       "projects": [
         {
-          "role": "Senior JavaScript Developer",
-          "description": "Cutco’s product line includes kitchen knives and utensils, shears, flatware, cookware and sporting knives.",
+          "role": "Tuesday",
           "stack": {
             "me": [
               "Ember.js",
@@ -51,15 +43,11 @@
     },
     {
       "company": {
-        "name": "LUXOFT",
-        "period": "Wednesday",
-        "logoHeight": 70,
-        "logo": "luxoft.svg"
+        "period": "Wednesday"
       },
       "projects": [
         {
-          "role": "Web developer",
-          "description": "Service for evaluating the effectiveness of communications #1 in terms of sources: 800 million SOCMEDIA and 49000 mass media",
+          "role": "Wednesday",
           "stack": {
             "me": [
               "Backbone.js",
@@ -78,14 +66,11 @@
     },
     {
       "company": {
-        "name": "ISRA Group",
-        "period": "Thursday"
+        "period": "Day"
       },
       "projects": [
         {
-          "name": "Trading systems",
-          "role": "HTML developer",
-          "description": "Trading systems",
+          "role": "Thursday",
           "stack": {
             "me": [
               "Wordpress",
@@ -105,14 +90,11 @@
     },
     {
       "company": {
-        "name": "ISRA Group",
         "period": "Friday"
       },
       "projects": [
         {
-          "name": "Trading systems",
-          "role": "HTML developer",
-          "description": "Trading systems",
+          "role": "Project Seminar",
           "stack": {
             "me": [
               "Wordpress",

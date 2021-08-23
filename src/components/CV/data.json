@@ -26,22 +26,14 @@
           }
         },
         {
-          "name": "Adidas",
-          "logoHeight": 60,
-          "logo": "adidas.svg",
-          "role": "Senior JavaScript developer",
-          "description": "Marketing portal for Adidas Group",
+          "name": "",
+          "logoHeight": "",
+          "logo": "",
+          "role": "",
+          "description": "",
           "stack": {
-            "me": [
-              "Backbone.js",
-              "Marionette.js",
-              "REST",
-              "Stylus",
-              "Gulp"
-            ],
-            "all": [
-              "Java"
-            ]
+            "me": [],
+            "all": [ ]
           }
         }
       ]
@@ -73,24 +65,14 @@
           }
         },
         {
-          "name": "Ovia Health",
-          "logoHeight": 30,
-          "logo": "ovia_health.svg",
-          "role": "Senior Frontend Developer",
-          "description": "Ovia Health delivers the #1 health solution for women and families.",
+          "name": "",
+          "logoHeight": "",
+          "logo": "",
+          "role": "",
+          "description": "",
           "stack": {
-            "me": [
-              "jQuery",
-              "HTML",
-              "SASS",
-              "Django",
-              "Bootstrap",
-              "Twig"
-            ],
-            "all": [
-              "PHP",
-              "Symphony"
-            ]
+            "me": [],
+            "all": []
           }
         }
       ]
@@ -124,22 +106,12 @@
           }
         },
         {
-          "name": "Hotwire",
-          "logoHeight": 40,
-          "logo": "hotwire.svg",
-          "role": "Web developer",
-          "description": "Hotwire is a travel website that can be used to book airline tickets, hotel rooms, rental cars, and vacation packages. It operates by selling off unsold travel inventory at discounted prices.",
-          "stack": {
-            "me": [
-              "Javascript",
-              "CSS",
-              "JSP"
-            ],
-            "all": [
-              "Java",
-              "Spring"
-            ]
-          }
+          "name": "",
+          "logoHeight": "",
+          "logo": "",
+          "role": "",
+          "description": "",
+          "stack": {}
         }
       ]
     },

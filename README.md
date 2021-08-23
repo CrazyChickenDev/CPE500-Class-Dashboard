@@ -2,7 +2,7 @@
   <img alt="Logo" src="static\photo.jpg" width="100" />
 </div>
 <h1 align="center">
-  CPE500-2022
+  CPE500 Class Dashboard
 </h1>
 <p align="center">
   Inspired by <a href="https://github.com/alxshelepenok/gatsby-starter-lumen">gatsby-starter-lumen</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
@@ -10,7 +10,7 @@
 
 ## 💫 Deploy
 
-[Link](https://cpe500-2022.netlify.app/)
+[Link](https://cpe500.netlify.app/)
 <p align="center">
   <a href="https://app.netlify.com/sites/cpe500-2022/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/ff358318-0bde-479f-9d39-1bcf1331cee1/deploy-status" alt="Netlify Status" />

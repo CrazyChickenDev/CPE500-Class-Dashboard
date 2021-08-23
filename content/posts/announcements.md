@@ -14,6 +14,16 @@ tags:
 ---
 
 VERY IMPORTANT NOTICE❗❗❗❗📢
+-- Good morning everyone,
+
+There will be PRE571 class today.
+
+Make yourself available
+
+Venue: New 1000LT
+Time: 11am - 1pm
+
+
 
 --  IT report submission deadline is this Friday, 20th of August, 2021
 

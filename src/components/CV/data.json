@@ -3,15 +3,15 @@
     {
       "projects": [
         {
-          "role": "Monday",
+          "role": "MONDAY",
           "stack": {
             "me": [
-              "Angular.js",
-              "meteor.js",
-              "REST",
-              "Socket.io",
-              "Stylus",
-              "Gulp"
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)"
             ]
           }
         }
@@ -20,16 +20,19 @@
     {
       "projects": [
         {
-          "role": "Tuesday",
+          "role": "TUESDAY",
           "stack": {
             "me": [
-              "Ember.js",
-              "REST",
-              "HTML",
-              "SASS"
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)"
             ],
             "all": [
-              "Java"
+              "Course (00:00AM - 00:00AM)(Lecturer)"
             ]
           }
         }
@@ -38,18 +41,17 @@
     {
       "projects": [
         {
-          "role": "Wednesday",
+          "role": "WEDNESDAY",
           "stack": {
             "me": [
-              "Backbone.js",
-              "REST",
-              "jQuery",
-              "Bootstrap",
-              "HTML",
-              "CSS"
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)"
             ],
             "all": [
-              ".Net"
+              "Course (00:00AM - 00:00AM)(Lecturer)"
             ]
           }
         }
@@ -58,19 +60,18 @@
     {
       "projects": [
         {
-          "role": "Thursday",
+          "role": "THURSDAY",
           "stack": {
             "me": [
-              "Wordpress",
-              "Drupal",
-              "Joomla",
-              "jQuery",
-              "Bootstrap",
-              "HTML",
-              "CSS"
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)",
+              "Course (00:00AM - 00:00AM)(Lecturer)"
             ],
             "all": [
-              "PHP"
+              "Course (00:00AM - 00:00AM)(Lecturer)"
             ]
           }
         }
@@ -79,19 +80,13 @@
     {
       "projects": [
         {
-          "role": "Friday",
+          "role": "FRIDAY",
           "stack": {
             "me": [
-              "Wordpress",
-              "Drupal",
-              "Joomla",
-              "jQuery",
-              "Bootstrap",
-              "HTML",
-              "CSS"
+              "Project (00:00AM - 00:00AM)(Lecturer)"
             ],
             "all": [
-              "PHP"
+              "Project (00:00AM - 00:00AM)(Lecturer)"
             ]
           }
         }

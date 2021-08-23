@@ -3,7 +3,7 @@ import { Card, Row, Col, Divider, Tag } from 'antd'
 
 const Experience = ({ experience }) => (
   <>
-    <h3 className="text-center mt-10 mb-5">Timetable</h3>
+    <h3 className="text-center mt-10 mb-5">Timetable (Awaiting Update!)</h3>
     <Card className="work-experience">
       {experience.map((item, i) => (
         <Row type="flex" justify="space-around" key={item.company.name}>

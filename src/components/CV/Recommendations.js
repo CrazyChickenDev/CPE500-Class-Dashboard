@@ -7,10 +7,10 @@ const Recommendations = ({ recommendations }) => (
     <Card>
       {recommendations.map((rec, i) => (
         <Row type="flex" justify="center" key={i} className="text-lg">
-          <Col span={20}>
+          <Col span={5}>
             <h3 align = "center" className="mb-0">{rec.name}</h3>
             <p align = "center">{rec.jobTitle}</p>
-            <Avatar
+            <Avatar align = "center"
               icon={<img src={`/people/${rec.photo}`} />}
               alt={rec.name}
               size={50}

@@ -6,9 +6,9 @@
     "link": "/posts/announcements"
   },
   {
-    "name": "Important Updates",
+    "name": "Assignments",
     "logo": "/logos/trello-bookmark.svg",
-    "description": "Get recent updates on class news.",
-    "link": "/posts/important-updates"
+    "description": "Get recent updates on class assignments and their deadlines.",
+    "link": "/posts/assignments"
   }
 ]

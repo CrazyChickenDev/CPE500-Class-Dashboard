@@ -1,7 +1,7 @@
 module.exports = {
-  url: 'https://cpe500-2022.netlify.app',
+  url: 'https://cpe500.netlify.app',
   pathPrefix: '/',
-  title: 'CPE500 Dashboard',
+  title: 'CPE500 Class Dashboard',
   keywords:
     'OxOOCCSec, project, cpe500, materials, courses, Nwaobi Daniel, calender, class',
   subtitle: 'Dashboard',
@@ -20,7 +20,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'CPE500 - 2022',
+    name: 'CPE500 - Class',
     photo: '/photo.jpg',
     bio: 'Dashboard',
     contacts: {

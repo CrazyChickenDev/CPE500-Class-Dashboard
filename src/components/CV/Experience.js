@@ -7,22 +7,7 @@ const Experience = ({ experience }) => (
     <Card className="work-experience">
       {experience.map((item, i) => (
         <Row type="flex" justify="space-around" key={item.company.name}>
-          <Divider orientation="left" className={i === 0 && 'mt-0'}>
-            {item.company.period}
-          </Divider>
-          <Col span={4} className="hide-mobile">
-            {item.company.logo ? (
-              <div>
-                <img
-                  src={`/companies/${item.company.logo}`}
-                  alt={item.company.name}
-                  className="max-w-3/4 inline"
-                />
-              </div>
-            ) : (
-              <h2 className="text-2xl">{item.company.name}</h2>
-            )}
-          </Col>
+          
           <Col xs={24} sm={24} md={20} lg={20} xl={20}>
             {item.projects.map((project, i) => (
               <Row type="flex" justify="space-around" key={project.name} className="mb-5">

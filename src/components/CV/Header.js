@@ -17,7 +17,7 @@ const Header = ({ header }) => (
         <img
           src={header.img.src}
           alt={header.img.alt}
-          width={80}
+          width={50}
           className="rounded-full max-w-3/4"
         />
       </a>

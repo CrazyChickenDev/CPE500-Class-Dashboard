@@ -9,9 +9,6 @@
       },
       "projects": [
         {
-          "name": "",
-          "logoHeight": "",
-          "logo": "",
           "role": "JavaScript Team Leader",
           "description": "Interactive kiosk with multiple screens",
           "stack": {
@@ -36,9 +33,6 @@
       },
       "projects": [
         {
-          "name": "Cutco",
-          "logoHeight": 55,
-          "logo": "cutco.svg",
           "role": "Senior JavaScript Developer",
           "description": "Cutco’s product line includes kitchen knives and utensils, shears, flatware, cookware and sporting knives.",
           "stack": {
@@ -64,9 +58,6 @@
       },
       "projects": [
         {
-          "name": "Medialogia",
-          "logoHeight": 40,
-          "logo": "medialogia.svg",
           "role": "Web developer",
           "description": "Service for evaluating the effectiveness of communications #1 in terms of sources: 800 million SOCMEDIA and 49000 mass media",
           "stack": {

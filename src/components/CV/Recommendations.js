@@ -7,7 +7,6 @@ const Recommendations = ({ recommendations }) => (
     <Card>
       {recommendations.map((rec, i) => (
         <Row type="flex" justify="space-around" key={i} className="text-lg">
-          <Divider orientation="center" className={i === 0 && 'mt-0'} />
           <Col span={5}>
             <h3 className="mb-0">{rec.name}</h3>
             <p>{rec.jobTitle}</p>
@@ -16,17 +15,6 @@ const Recommendations = ({ recommendations }) => (
               alt={rec.name}
               size={100}
             />
-          </Col>
-          <Col span={17}>
-            <h3>
-              {rec.text.split('\n').map((text, i) => {
-                return (
-                  <div key={i} className="pb-3">
-                    {text}
-                  </div>
-                )
-              })}
-            </h3>
           </Col>
         </Row>
       ))}

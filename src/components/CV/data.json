@@ -9,9 +9,9 @@
       },
       "projects": [
         {
-          "name": "SportChek",
-          "logoHeight": 40,
-          "logo": "sportchek.svg",
+          "name": "",
+          "logoHeight": "",
+          "logo": "",
           "role": "JavaScript Team Leader",
           "description": "Interactive kiosk with multiple screens",
           "stack": {
@@ -23,17 +23,6 @@
               "Stylus",
               "Gulp"
             ]
-          }
-        },
-        {
-          "name": "",
-          "logoHeight": "",
-          "logo": "",
-          "role": "",
-          "description": "",
-          "stack": {
-            "me": [],
-            "all": [ ]
           }
         }
       ]
@@ -62,17 +51,6 @@
             "all": [
               "Java"
             ]
-          }
-        },
-        {
-          "name": "",
-          "logoHeight": "",
-          "logo": "",
-          "role": "",
-          "description": "",
-          "stack": {
-            "me": [],
-            "all": []
           }
         }
       ]
@@ -104,14 +82,6 @@
               ".Net"
             ]
           }
-        },
-        {
-          "name": "",
-          "logoHeight": "",
-          "logo": "",
-          "role": "",
-          "description": "",
-          "stack": {}
         }
       ]
     },

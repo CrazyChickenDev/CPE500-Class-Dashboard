@@ -200,20 +200,6 @@
   ],
   "recommendations": [
     {
-      "name": "Engr. Isi Edeoghon",
-      "jobTitle": "Lecturer",
-      "photo": "isi.jpg",
-      "linkedin": "https://www.linkedin.com/in/isi-edeoghon-13897749/",
-      "text": ""
-    },
-    {
-      "name": "Engr. Odia Osasuyi",
-      "jobTitle": "Lecturer",
-      "photo": "odia.jpg",
-      "linkedin": "https://www.linkedin.com/in/osasuyi-odia-823899103/",
-      "text": ""
-    },
-    {
       "name": "Oluchi Favour Boi",
       "jobTitle": "Course Representative",
       "photo": "oluchi.jpg",
@@ -225,6 +211,20 @@
       "jobTitle": "Assistant Course Representative",
       "photo": "francisca.jpg",
       "linkedin": "https://www.linkedin.com/in/aninjoku-chinenye-francisca-491a9b190/",
+      "text": ""
+    },
+    {
+      "name": "Engr. Isi Edeoghon",
+      "jobTitle": "Lecturer",
+      "photo": "isi.jpg",
+      "linkedin": "https://www.linkedin.com/in/isi-edeoghon-13897749/",
+      "text": ""
+    },
+    {
+      "name": "Engr. Odia Osasuyi",
+      "jobTitle": "Lecturer",
+      "photo": "odia.jpg",
+      "linkedin": "https://www.linkedin.com/in/osasuyi-odia-823899103/",
       "text": ""
     }
   ],

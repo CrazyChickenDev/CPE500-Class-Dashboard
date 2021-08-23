@@ -3,11 +3,11 @@ import { Card, Col, Divider, Row, Avatar } from 'antd'
 
 const Recommendations = ({ recommendations }) => (
   <>
-    <h3 className="text-center mt-1 mb-0">Lecturers and Course Representatives</h3>
+    <h3 className="text-center mt-1 mb-0">Course Representatives and Lecturers</h3>
     <Card>
       {recommendations.map((rec, i) => (
         <Row type="flex" justify="space-around" key={i} className="text-lg">
-          <Divider orientation="left" className={i === 0 && 'mt-0'} />
+          <Divider orientation="center" className={i === 0 && 'mt-0'} />
           <Col span={5}>
             <h3 className="mb-0">{rec.name}</h3>
             <p>{rec.jobTitle}</p>

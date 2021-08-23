@@ -1,9 +1,6 @@
 {
   "experience": [
     {
-      "company": {
-        "period": "Monday"
-      },
       "projects": [
         {
           "role": "Monday",
@@ -21,9 +18,6 @@
       ]
     },
     {
-      "company": {
-        "period": "Tuesday"
-      },
       "projects": [
         {
           "role": "Tuesday",
@@ -42,9 +36,6 @@
       ]
     },
     {
-      "company": {
-        "period": "Wednesday"
-      },
       "projects": [
         {
           "role": "Wednesday",
@@ -65,9 +56,6 @@
       ]
     },
     {
-      "company": {
-        "period": "Thursday"
-      },
       "projects": [
         {
           "role": "Thursday",
@@ -89,12 +77,9 @@
       ]
     },
     {
-      "company": {
-        "period": "Friday"
-      },
       "projects": [
         {
-          "role": "Project Seminar",
+          "role": "Friday",
           "stack": {
             "me": [
               "Wordpress",
@@ -132,7 +117,7 @@
       "name": "Engr. Eguagie",
       "jobTitle": "Course Adviser",
       "photo": "eguagie.jpg",
-      "linkedin": "https://www.linkedin.com/in/isi-edeoghon-13897749/",
+      "linkedin": "",
       "text": ""
     }
   ],

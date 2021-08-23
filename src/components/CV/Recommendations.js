@@ -13,7 +13,7 @@ const Recommendations = ({ recommendations }) => (
             <Avatar
               icon={<img src={`/people/${rec.photo}`} />}
               alt={rec.name}
-              size={100}
+              size={50}
             />
           </Col>
           <Col span={5}>
@@ -22,7 +22,7 @@ const Recommendations = ({ recommendations }) => (
             <Avatar
               icon={<img src={`/people/${rec.photo}`} />}
               alt={rec.name}
-              size={100}
+              size={50}
             />
           </Col>
           <Col span={5}>
@@ -31,7 +31,16 @@ const Recommendations = ({ recommendations }) => (
             <Avatar
               icon={<img src={`/people/${rec.photo}`} />}
               alt={rec.name}
-              size={100}
+              size={50}
+            />
+          </Col>
+          <Col span={5}>
+            <h3 align = "center" className="mb-0">{rec.name}</h3>
+            <p>{rec.jobTitle}</p>
+            <Avatar
+              icon={<img src={`/people/${rec.photo}`} />}
+              alt={rec.name}
+              size={50}
             />
           </Col>
         </Row>

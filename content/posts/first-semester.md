@@ -33,7 +33,7 @@ Materials:
 
 - [CPE 593](https://www.dropbox.com/sh/y466upwjgg3vq49/AADA9QhkygVn9qxTuhx8-rita?dl=0)
 
-- [Past Questions]() Woild be updated!
+- [Past Questions]() Would be updated!
 
 ---
 

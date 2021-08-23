@@ -6,7 +6,7 @@ const Experience = ({ experience }) => (
     <h3 className="text-center mt-10 mb-5">Timetable (Awaiting Update!)</h3>
     <Card className="work-experience">
       {experience.map((item, i) => (
-        <Row type="flex" justify="space-around" key={item.company.name}>
+        <Row type="flex" justify="space-around" >
           
           <Col xs={24} sm={24} md={20} lg={20} xl={20}>
             {item.projects.map((project, i) => (

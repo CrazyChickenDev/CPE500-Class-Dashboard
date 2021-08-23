@@ -4,7 +4,7 @@ title: Important Updates
 slug: /posts/important-updates
 draft: false
 priority: 0
-date: 2021-08-11T21:19:27.692Z
+date: 2021-08-18T21:19:27.692Z
 description: Important Updates
 category: announcements
 tags:

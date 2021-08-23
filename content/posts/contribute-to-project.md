@@ -4,7 +4,7 @@ title: '[Would you like to contribute or maintain this project?](https://github.
 slug: /posts/CPE500-2022-Dashboard
 draft: false
 priority: 0
-date: 2021-08-21T00:23:37.121Z
+date: 2021-08-19T00:23:37.121Z
 description: >-
   Would love to contribute to this awesome project
   Fork it or use it as is.

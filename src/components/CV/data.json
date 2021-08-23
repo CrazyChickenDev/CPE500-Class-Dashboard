@@ -2,23 +2,23 @@
   "experience": [
     {
       "company": {
-        "period": "Monday",
-        "projects": [
-          {
-            "stack": {
-              "me": [
-                "Angular.js",
-                "meteor.js",
-                "REST",
-                "Socket.io",
-                "Stylus",
-                "Gulp"
-              ]
-            }
+        "period": "Monday"
+      },
+      "projects": [
+        {
+          "role": "Monday",
+          "stack": {
+            "me": [
+              "Angular.js",
+              "meteor.js",
+              "REST",
+              "Socket.io",
+              "Stylus",
+              "Gulp"
+            ]
           }
-        ]
-      }
-
+        }
+      ]
     },
     {
       "company": {

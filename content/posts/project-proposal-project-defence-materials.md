@@ -26,3 +26,54 @@ Materials:
 ---
 
 A Final Year Project (FYP) is a project or academic task that must be accomplished individually by every undergraduate student to obtain the attributions to graduate. Its aim is to demonstrate the skills and knowledge students have acquired in their studies. It is also a way of identifying the students’ ability to perform an industrial project or applied research linked to the knowledge they have gained in their discipline. It allows students to choose methods, tools and make decisions throughout the entire project, much like what a professional undertakes when carrying out a task.
+
+
+Sample project proposal for undergraduate/final year students
+
+ABSTRACT
+
+TABLE OF CONTENTS
+Title page i
+Approval Abstract
+Table of Contents
+Chapter 1: Introduction
+•	Background
+•	Statement of the problem
+•	Purpose of the study
+•	Scope
+Chapter Two: Literature Review
+•	Review of literature and brief 
+•	Justification of the study
+Chapter three: Methodology
+•	 design
+•	Choice of Materials
+•	Cost analysis
+•	References
+Chapter 1
+Introduction
+
+1.1 Background
+
+1.2 Statement of the problem
+
+
+1.3 Purpose of study
+
+1.4 Scope
+
+Chapter Two
+Literature Review
+2.1	Review of literature 
+
+2.2 Justification of the study
+
+Chapter three
+Methodology
+
+3.1  design methodology  
+
+3.2 Choice of Materials
+
+3.3 Cost analysis
+
+References
